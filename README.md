@@ -1,4 +1,5 @@
 #  THE Ultimate-Todo-List APP  <br> 
+# DISCLAIMMER : PLZ select the category when editing the newly added Task :) <br> 
 this is a complete Todo List App having Featuers :-  <br>
 1 : ADDING NEW Task  <br> 
 2 : UPDATING / EDITING of the EXISTING TASK <br> 
